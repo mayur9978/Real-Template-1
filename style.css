@@ -1,0 +1,244 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.main {
+    border-radius: 0% 0% 8% 8%;
+}
+
+.logo {
+    width: 130px;
+    top: 1%;
+    left: 35%;
+}
+
+.name {
+    top: 8%;
+    left: 43.5%;
+    color: #1993D3;
+}
+
+.shop {
+
+    top: 150%;
+    font-size: 150px;
+    width: 1310px;
+    margin-left: 110px;
+    border-radius: 100px 0px 100px 0px;
+}
+
+.slogan {
+    color: white;
+    background-color: #35C8CF;
+    font-size: 80px;
+    top: 184.5%;
+    margin-left: 220px;
+}
+
+.quote {
+    width: 1050px;
+}
+
+.lita {
+    font-family: none;
+    color: grey;
+    font-size: 200px;
+    position: absolute;
+    left: 6%;
+    top: 185%;
+
+}
+
+.about_title {
+    position: absolute;
+    top: 202%;
+    left: 7%;
+}
+
+.para_1 {
+    position: absolute;
+    top: 215%;
+    left: 7%;
+    padding-right: 50%;
+}
+
+.hr {
+    width: 700px;
+    margin-left: 10%;
+    height: 2px;
+    background-color: grey;
+    margin-top: 480px;
+    margin-bottom: 10px;
+}
+
+.covid_head {
+    font-size: 30px;
+    margin-left: 500px;
+    letter-spacing: 5px;
+}
+
+.bolder {
+    font-weight: 800;
+}
+
+.margin {
+    margin-left: 120px;
+}
+
+.part_4 {
+    margin-top: 25px;
+    width: 900px;
+    height: 35vh;
+
+}
+
+.box_logo {
+    width: 70px;
+    margin-left: 35px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-around;
+}
+
+.stack1 {
+    width: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 700;
+    border-bottom: #0D6EFD 5px solid;
+}
+
+.footer {
+    margin-top: 40px;
+    margin-left: 8.5%;
+    width: 52%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    line-height: 30px;
+    color: #0D6EFD;
+}
+
+#email {
+    font-size: 45px;
+    margin-top: 20px;
+}
+
+#www {
+    width: 30px;
+    position: absolute;
+    top: 301.5%;
+    left: 35px;
+
+}
+
+.social {
+    height: 12vh;
+    position: absolute;
+    top: 296%;
+    left: 648px;
+
+}
+
+#social_icon {
+    width: 180px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.part_5 {
+    height: 123.5vh;
+    width: 40%;
+    position: absolute;
+    top: 198.3%;
+    right: 0%;
+    z-index: -3;
+}
+
+.aqua_box {
+    background-color: aqua;
+    width: 90%;
+    height: 64vh;
+    position: relative;
+    top: 13%;
+    left: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: space-evenly;
+    padding-left: 20%;
+    padding-right: 10%;
+}
+
+.aqua_box h3,
+.paraA {
+    line-height: 20px;
+    color: white;
+}
+
+.service_box {
+    position: absolute;
+    font-size: 50px;
+    padding-right: 80px;
+    font-weight: 700;
+    top: 300px;
+    width: 100%;
+    border-radius: 60px 0% 0% 0%;
+}
+
+.image_box {
+    width: 65%;
+    border-radius: 0px 0px 40px 0px;
+    height: 50vh;
+    position: absolute;
+    top: 20px;
+    right: 90px;
+
+}
+
+#second {
+    position: relative;
+    z-index: 1;
+    width: 75%;
+    height: auto;
+    top: 0px;
+    left: 40px;
+}
+
+.paraA {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.last_h3 {
+    margin-bottom: 0px;
+}
+
+.qr_block {
+    position: absolute;
+    top: 82.5%;
+    left: -3%;
+}
+
+#qr {
+    position: absolute;
+    width: 160px;
+    height: 150px;
+    background-color: white;
+    border: #0D6EFD 15px solid;
+    border-radius: 20px 0px 20px 0px;
+
+}
